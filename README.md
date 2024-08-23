@@ -2,6 +2,10 @@
 
 The `Bargraph` component is a simple and customizable bar graph that visualizes numerical data over time or categories. This component allows you to display data as bars, making it easy to compare values.
 
+## Preview
+
+![Preview](./preview/preview.png)
+
 ## Usage
 
 To use the Bargraph component, import it into your React component and pass in the required `data` and `unit` props.
